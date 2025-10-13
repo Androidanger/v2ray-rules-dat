@@ -39,3 +39,10 @@ xjp.cc
 yanghengjun.com
 ydy.com
 yslang.com
+www.nikke-de.com
+www.nikke-en.com
+www.nikke-fr.com
+www.nikke-global.com
+www.nikke-jp.com
+www.nikke-kr.com
+www.nikke-sea.com
